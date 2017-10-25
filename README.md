@@ -2,7 +2,7 @@
 
 **Author(s):** **CHANGEME**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-alice-sharon-jet.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-alice-sharon-jet)
 
 ## Specification
 
