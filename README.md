@@ -1,6 +1,6 @@
 # CS510 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Alice Wong, Sharon Kim, Jet Li**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-alice-sharon-jet.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-alice-sharon-jet)
 
@@ -40,7 +40,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We learned about the entire process of how to go from a makefile to an executable file for the C language.  It was practiced through an exercise where we had to debug a factorial function. This classwork shows the efficiency of the C language, because it directly talks to the hardware.  However, the difficulties of C are that the language is not as user friendly as python or julia because there is no interpreter.**
 
 ## Honor Pledge
 
