@@ -51,4 +51,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Alice Wong, Sharon Kim, Jet Li**
